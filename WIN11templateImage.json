@@ -63,7 +63,7 @@
                     "galleryImageId": "/subscriptions/<subscriptionID>/resourceGroups/<rgName>/providers/Microsoft.Compute/galleries/<sharedImageGalName>/images/<imageDefName>",
                     "runOutputName": "<runOutputName>",
                     "artifactTags": {
-                        "source": "azureVmImageBuilder",
+                        "source": "wvd11",
                         "baseosimg": "windows11"
                     },
                     "replicationRegions": [

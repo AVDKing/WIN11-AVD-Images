@@ -6,10 +6,10 @@
         "type": "string"
         },
         "api-version": {
-          "type": "string"
+          "type": "2021-10-01"
         },
         "svclocation": {
-            "type": "string"
+            "type": "northeurope"
         }
     },
     

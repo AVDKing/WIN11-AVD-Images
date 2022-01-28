@@ -3,43 +3,43 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "type": "string"
+            "type": "northeurope"
         },
         "galleryName": {
-            "type": "string"
+            "type": "sigImageBuilder01"
         },
         "imageDefinitionName": {
-            "type": "string"
+            "type": "WIN11AVD"
         },
         "osType": {
-            "type": "string"
+            "type": "Windows"
         },
         "osState": {
-            "type": "string"
+            "type": "Generalized"
         },
         "publisher": {
-            "type": "string"
+            "type": "microsoftwindowsdesktop"
         },
         "offer": {
-            "type": "string"
+            "type": "office-365"
         },
         "sku": {
-            "type": "string"
+            "type": "win11-21h2-avd-m365"
         },
         "minRecommendedvCPUs": {
-            "type": "int"
+            "type": "2"
         },
         "maxRecommendedvCPUs": {
-            "type": "int"
+            "type": "32"
         },
         "minRecommendedMemory": {
-            "type": "int"
+            "type": "4"
         },
         "maxRecommendedMemory": {
-            "type": "int"
+            "type": "64"
         },
         "hyperVGeneration": {
-            "type": "string"
+            "type": "V1"
         }
     },
     "variables": {},

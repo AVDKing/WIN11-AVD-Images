@@ -6,7 +6,7 @@
         "type": "string"
         },
         "api-version": {
-          "type": "2021-10-01"
+          "type": "string"
         },
         "svclocation": {
             "type": "northeurope"
@@ -63,7 +63,7 @@
                     "galleryImageId": "/subscriptions/<subscriptionID>/resourceGroups/<rgName>/providers/Microsoft.Compute/galleries/<sharedImageGalName>/images/<imageDefName>",
                     "runOutputName": "<runOutputName>",
                     "artifactTags": {
-                        "source": "wvd11",
+                        "source": "azureVMImageBuilder",
                         "baseosimg": "windows11"
                     },
                     "replicationRegions": [

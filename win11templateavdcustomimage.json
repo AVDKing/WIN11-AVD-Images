@@ -55,9 +55,9 @@
             },
             "customize": [
                 {
-                    "type" "Powershell"
+                    "type" "Powershell",
                     "runElevated": true,
-                    "name": "customize"
+                    "name": "customize",
                    "scriptUri" "<URI to PowerShell Script>"
                 }
             ],

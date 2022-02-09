@@ -54,7 +54,11 @@
                 
             },
             "customize": [
-
+                {
+                    "type" "Powershell"
+                    "runElevated": true,
+                    "name": customize
+                   "scriptUri" '<URI to PowerShell Script>'
             ],
             "distribute": 
             [

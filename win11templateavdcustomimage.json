@@ -55,10 +55,10 @@
             },
             "customize": [
                 {
-                    "type" "PowerShell",
+                    "type": "PowerShell",
                     "runElevated": true,
                     "name": "customize",
-                   "scriptUri" "<URI to PowerShell Script>"
+                   "scriptUri": "<URI to PowerShell Script>"
                 }
             ],
             "distribute": 

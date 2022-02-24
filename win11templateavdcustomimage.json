@@ -62,7 +62,7 @@
                     "runElevated": true,
                     "name": "domainjoin",
                    "scriptUri": "<URI to PowerShell Script>"
-                }
+                },
                 
                 {
                     "type": "PowerShell",

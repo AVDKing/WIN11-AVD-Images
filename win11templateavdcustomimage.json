@@ -60,8 +60,15 @@
                 {
                     "type": "PowerShell",
                     "runElevated": true,
-                    "name": "customize",
+                    "name": "domainjoin",
                    "scriptUri": "<URI to PowerShell Script>"
+                }
+                
+                {
+                    "type": "PowerShell",
+                    "runElevated": true,
+                    "name": "FSLogixGruppenLocal",
+                   "scriptUri": "<URI to PowerShell Script2>"
                 }
             ],
             "distribute": 

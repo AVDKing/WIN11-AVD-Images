@@ -69,7 +69,7 @@
                     "runElevated": true,
                     "name": "FSLogixGruppenLocal",
                    "scriptUri": "<URI to PowerShell Script2>"
-                },
+                }
             ],
             "distribute": 
             [
